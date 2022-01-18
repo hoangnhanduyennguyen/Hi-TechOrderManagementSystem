@@ -1,5 +1,5 @@
 # Hi-Tech Order Management System
-A Windows application for a company which supplies computer science books to colleges and universities. 
+A Windows application built for a company which supplies computer science books to colleges and universities. 
 
 ## Introduction
 The application allows users to add, update, manage users, employees, customers, books, and orders information.  
