@@ -6,16 +6,16 @@ The application allows users to add, update, manage users, employees, customers,
 
 ### Table of Contents
 - [Prerequisites](#prerequisites)
-- [Description](#desciption)
+- [Description](#description)
 - [How To Use](#how-to-use)
-- [Database Design]
+- [Database Design](#database-design)
 - [Resources](#resources)
 - [Author](#author)
 
 ---
 
 ## Prerequisites
-The application can be run using Microsoft Visual Studio 2019.
+- The application can be run using Microsoft Visual Studio 2019.
 
 ## Description
 The application includes:
@@ -37,10 +37,10 @@ The application includes:
 ---
 
 ## How To Use
-After logging in using user ID and password, based on the role, the employee can view, add, update, delete information.
+- After logging in using user ID and password, based on the role, the employee can view, add, update, delete information.
 
 ## Database Design
-[Guidelines to Database Design Test and Implementation](https://unsplash.com/ "Unsplash") 
+- [Guidelines to Database Design Test and Implementation](https://github.com/hoangnhanduyennguyen/Hi-TechOrderManagementSystem/blob/master/Guidelines_to_Database_Design__Test_and_Implementation.docx) 
 
 ## Resources
 - Images:
@@ -50,5 +50,5 @@ After logging in using user ID and password, based on the role, the employee can
 
 * Hoang Nhan Duyen Nguyen
 
-[Back To The Top](#Hi-Tech Order Management System)
+[Back To The Top](#Hi--Tech-Order-Management-System)
 
