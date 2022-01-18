@@ -50,5 +50,5 @@ The application includes:
 
 * Hoang Nhan Duyen Nguyen
 
-[Back To The Top](#Hi--Tech-Order-Management-System)
+[Back To The Top](#Hi-Tech-Order-Management-System)
 
